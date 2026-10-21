@@ -42,6 +42,7 @@ styles, materials, layouts, or furniture directions.
   exteriors, and materials.
 - [DecorMatters](https://www.decormatters.com/) - Interior design community and
   AI-powered room design ideas.
+- [Spaceora](https://spaceora.app) - AI room and garden designer — redesign interiors, virtually stage, and plan landscapes from a single photo.
 
 ## Floor Plans And Layout Planning
 
